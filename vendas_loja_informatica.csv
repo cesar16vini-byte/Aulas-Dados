@@ -1,0 +1,41 @@
+id_venda,data,produto,categoria,quantidade,preco,cliente,cidade
+1,05/01/2026,Mouse Gamer,Periféricos,1,"89,90",Ana Souza,Recife
+2,06/01/2026,Teclado Mecânico,Periféricos,2,259.90,Bruno Lima,recife
+3,2026-01-07,Monitor 24pol,Hardware,3,"819,00",Carla Dias,RECIFE
+4,08/01/2026,SSD 480GB,Hardware,4,,Diego Alves,São Bento do Una
+5,09/01/2026,Notebook i5,Hardware,1,"3309,00",Elaine Melo,sao bento do una
+6,2026-01-10,Fone de Ouvido,Acessórios,2,149.90,Fábio Rocha,SP
+7,11/01/2026,Webcam Full HD,Acessórios,3,"159,00",Gabriela Nunes,sp
+8,12 de janeiro de 2026,Cadeira Gamer,Acessórios,4,909.00,Heitor Costa,São Paulo
+9,13/01/2026,Placa de Vídeo,Hardware,1,"1919,00",Isabela Prado,Caruaru
+10,14/01/2026,Memória RAM 8GB,Hardware,2,189.00,,caruaru
+11,2026-01-15,Mouse Gamer,Periféricos,3,"99,90",Ana Souza,CARUARU
+12,16/01/2026,Teclado Mecânico,Periféricos,4,269.90,Bruno Lima,Garanhuns
+13,17/01/2026,Monitor 24pol,Hardware,1,"799,00",Carla Dias,Recife
+14,18/01/2026,SSD 480GB,Hardware,2,229.00,Diego Alves,recife
+15,2026-01-19,Notebook i5,Hardware,3,"3319,00",Elaine Melo,RECIFE
+16,20/01/2026,Fone de Ouvido,Acessórios,4,,Fábio Rocha,São Bento do Una
+17,21/01/2026,Webcam Full HD,Acessórios,1,"169,00",Gabriela Nunes,sao bento do una
+18,22/01/2026,Cadeira Gamer,Acessórios,2,919.00,Heitor Costa,SP
+19,2026-01-23,Placa de Vídeo,Hardware,3,"1899,00",Isabela Prado,sp
+20,24/01/2026,Memória RAM 8GB,Hardware,4,199.00,João Pedro,São Paulo
+21,05/01/2026,Mouse Gamer,Periféricos,1,"109,90",Ana Souza,Caruaru
+22,06/01/2026,Teclado Mecânico,Periféricos,2,249.90,Bruno Lima,caruaru
+23,2026-01-07,Monitor 24pol,Hardware,3,"809,00",,CARUARU
+24,08/01/2026,SSD 480GB,Hardware,4,239.00,Diego Alves,Garanhuns
+25,09/01/2026,Notebook i5,Hardware,1,"3299,00",Elaine Melo,Recife
+26,2026-01-10,Fone de Ouvido,Acessórios,2,139.90,Fábio Rocha,recife
+27,11/01/2026,Webcam Full HD,Acessórios,3,"179,00",Gabriela Nunes,RECIFE
+28,12 de janeiro de 2026,Cadeira Gamer,Acessórios,4,899.00,Heitor Costa,São Bento do Una
+29,13/01/2026,Placa de Vídeo,Hardware,1,"1909,00",Isabela Prado,sao bento do una
+30,14/01/2026,Memória RAM 8GB,Hardware,2,209.00,João Pedro,SP
+31,2026-01-15,Mouse Gamer,Periféricos,3,"89,90",Ana Souza,
+32,16/01/2026,Teclado Mecânico,Periféricos,4,259.90,Bruno Lima,São Paulo
+33,17/01/2026,Monitor 24pol,Hardware,1,"819,00",Carla Dias,Caruaru
+34,18/01/2026,SSD 480GB,Hardware,2,219.00,Diego Alves,caruaru
+35,2026-01-19,Notebook i5,Hardware,3,"3309,00",Elaine Melo,CARUARU
+36,20/01/2026,Fone de Ouvido,Acessórios,4,149.90,Fábio Rocha,Garanhuns
+37,21/01/2026,Webcam Full HD,Acessórios,1,"159,00",Gabriela Nunes,Recife
+38,22/01/2026,Cadeira Gamer,Acessórios,2,909.00,Heitor Costa,recife
+6,2026-01-10,Fone de Ouvido,Acessórios,2,149.90,Fábio Rocha,SP
+13,17/01/2026,Monitor 24pol,Hardware,1,"799,00",Carla Dias,Recife
